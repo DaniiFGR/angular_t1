@@ -1,0 +1,136 @@
+body{
+  font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+}
+.nav{
+  background-image: linear-gradient(to bottom left,#14572A,#00923f);
+  height: 80px;
+
+}
+.nav .imagen{
+  padding-top: 10px;
+  width: 400px;
+  margin-left: 200px;
+}
+.nav .texto .texto-a{
+  color: white;
+  margin-top: -7%;
+  margin-left: 440px;
+}
+.line{
+  background-color: #14572A;
+  height: 35px;
+  width: 400px;
+  position: absolute;
+  z-index: 0;
+}
+.line-a{
+  background-color: #FBB03B;
+  height: 30px;
+  z-index: 1;
+  padding-top: 5px;
+}
+
+/* Estilos de menu */
+.menu{
+  background-color: #00232E;
+  width: 250px;
+  height: 40px;
+  margin-top: -10px;
+  color: #fff;
+  text-align: center;
+  padding-top: 1px;
+  padding-bottom: 5px;
+}
+.submenu{
+  background-color: #023b4b;
+  width: 250px;
+  height: 800px;
+}
+.table-c td{
+  padding-bottom: 15px;
+}
+/* Estilos de contenido */
+.contenido{
+  background-color: rgb(0, 0, 0, 0.1);
+  width: 1580px;
+  height: 700px;
+  margin-left: 300px;
+  margin-top: -750px;
+  padding-top: 1px;
+}
+.titulo{
+  background-color: #00232E;
+  color: #fff;
+  height: 40px;
+  margin: 10px;
+}
+.titulo p{
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px ;
+  font-size: 20px;
+}
+.textarea-c textarea{
+  width: 1534px;
+  margin-left: 15px;
+}
+.label-c{
+  color: #fff;
+  background-color: #1FA087;
+  width: 1540px;
+  height: 35px;
+  margin-left: 15px;
+}
+.label-ca{
+  color: #fff;
+  background-color: rgb(252, 252, 252, 0.8);
+  width: 1540px;
+  height: 350px;
+  margin-left: 15px;
+  border: solid #1FA087 1px;
+}
+.label-cb{
+  color: #fff;
+  background-color: #1FA087;
+  width: 1540px;
+  height: 35px;
+}
+.label-c b{
+  padding-left: 10px;
+  padding-top: -5px;
+}
+.label-cb b{
+  padding-left: 10px;
+}
+.textarea-2 {
+  width: 1494px;
+  height: 200px;
+}
+.cont-2{
+  color: #fff;
+  background-color: #1FA087;
+  width: 1500px;
+  height: 100px;
+  margin-left: 20px;
+}
+.cont-2 label{
+  padding-top: 5px;
+  padding-left: 10px;
+  width: 1500px;
+}
+.profe{
+  color: #1FA087;
+  margin-bottom: 30px;
+  border-bottom: solid rgb(0, 0, 0, 0.2) 1px;
+  margin-left: 20px;
+  width: 1490px;
+}
+
+/* Estilos de footer */
+.footer-c{
+  margin-left: 255px;
+  border-top: solid rgb(0, 0, 0, 0.3) 1px;
+  margin-top: 10px;
+}
